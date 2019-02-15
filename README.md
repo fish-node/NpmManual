@@ -8,5 +8,7 @@ https://docs.npmjs.com/files/package.json
 
 ## 镜像
 国内访问比较慢，可以配置淘宝源
+
 npm config set registry https://registry.npmjs.org/
+
 npm config set registry https://registry.npm.taobao.org
