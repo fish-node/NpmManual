@@ -1,0 +1,8 @@
+{
+  "name": "fish-npm",
+  "version": "0.0.2",
+  "description": "相关的字段 - name： 必填，表明我们的包名。需要在npmjs上唯一，记得提前到npm官网上搜索一下 - version： 必要，每次上传这个值只能增加，不能不变或者减少。 - homepage: 尽量填写，一般就是github地址，这样如果别人对我们的项目有兴趣，就可以找到地方。",
+  "main": "./src/index.js",
+  "homepage": "https://github.com/fish-nodejs/npm",
+  "license": "ISC"
+}
